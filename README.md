@@ -7,7 +7,7 @@ I would love to connect and chat!
 ## 📫 Contact
 
 - Portfolio: [darshankasundra.com](https://darshankasundra.com)  
-- Email: [your.email@gmail.com](mailto:your.email@gmail.com)  
+- Email: [dakasundra@gmail.com](mailto:dakasundra@gmail.com)  
 - LinkedIn: [linkedin.com/in/darshankasundra](https://linkedin.com/in/darshankasundra)
 
 ---
