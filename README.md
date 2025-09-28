@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Darshan Kasundra
+# Hi there 👋, I'm Darshan
 
-I'm a **Computer Engineering student** at the University of Toronto with a passion for **AI, Full-Stack Development, VR, FPGA systems**. I love building interactive and innovative projects that combine software and hardware.
+I'm a 3rd Year **Computer Engineering student** at the University of Toronto with a passion for **AI, Full-Stack Development, VR, FPGA systems**. I love building interactive and innovative projects that combine software and hardware.
 
-I would love to connect!
+I would love to connect and chat!
 
 ## 📫 Contact
 
