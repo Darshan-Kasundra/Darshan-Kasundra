@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Darshan Kasundra
 
-<!--
-**Darshan-Kasundra/Darshan-Kasundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** at the University of Toronto with a passion for **AI, Full-Stack Development, VR, FPGA systems**. I love building interactive and innovative projects that combine software and hardware.
 
-Here are some ideas to get you started:
+I would love to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+- Portfolio: [darshankasundra.com](https://darshankasundra.com)  
+- Email: [your.email@gmail.com](mailto:your.email@gmail.com)  
+- LinkedIn: [linkedin.com/in/darshankasundra](https://linkedin.com/in/darshankasundra)
+
+---
